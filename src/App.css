@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+* {
+  font-size: 16;
+  font-family: Fira Code;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
